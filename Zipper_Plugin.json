@@ -1,0 +1,13 @@
+{
+  "Name": "Zipper",
+  "Description": "A file unzipper.",
+  "DownloadUrl": "http://example.com/Download2",
+  "Tags": [
+    "zip",
+    "rar",
+    "7zip",
+    "unzipper",
+    "unarchiver",
+    "zipper",
+  ]
+}

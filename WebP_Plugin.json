@@ -1,0 +1,10 @@
+{
+  "Name": "WebP Converter",
+  "Description": "A simple Image to WebP converter!",
+  "DownloadUrl": "http://example.com/Download1",
+  "Tags": [
+    "image",
+    "converter",
+    "webp"
+  ]
+}
